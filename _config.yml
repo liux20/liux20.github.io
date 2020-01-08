@@ -1,0 +1,16 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Resume
+email: liuxiang19@mails.tsinghua.edu.cn
+description: 
+baseurl: ""
+url: "http://liux20.github.io"
+name: Xiang Liu
+job: 
+location: Shenzhen, China
+languages: Python, C++
+email_address: liuxiang19@mails.tsinghua.edu.cn
+
+# Build settings
+markdown: kramdown
